@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
 # Log file
 *.log
 
