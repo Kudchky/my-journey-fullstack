@@ -1,0 +1,16 @@
+TEMAS PARA ESTUDIAR:
+1. java.util.Random vs ThreadLocalRandom
+2. Métodos: nextInt(), nextDouble(), nextBoolean()
+3. Fórmulas matemáticas para rangos
+4. Semillas y números pseudoaleatorios
+5. Consideraciones de rendimiento y thread-safety
+
+LIBRERÍAS:
+- java.util.Random
+- java.util.concurrent.ThreadLocalRandom
+- java.security.SecureRandom (para criptografía)
+
+CONCEPTOS CLAVE:
+- Inclusividad/exclusividad de límites
+- Distribución uniforme
+- Reproducibilidad con semillas
